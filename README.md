@@ -6,7 +6,7 @@
 
 
 
-#### Descrição: 
+<h4>Descrição:</h4> 
 
 ##### Projeto realizado durante o bootcamp da Generation Brasil para formação de Desenvolvedor(a)(e) Full Stack Java Junior, com o fim de criar um e-commerce de uma loja de bolsas com os seguintes passos: 
 
