@@ -1,4 +1,4 @@
-<h1>BANCO GERAÇÃO</h1>
+<h1>LOJA GERAÇÃO DE BOLSAS</h1>
 
 <h4>Descrição:</h4> 
 
@@ -14,4 +14,10 @@
 #### Tecnologia Utilizada:
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" align="left"/>
+
+
+
+##### Pré-vizualização do projeto:
+
+![](./preview-project/preview-loja-geracao.gif)
 
