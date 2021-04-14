@@ -3,10 +3,8 @@
 #### Tecnologia Utilizada:
 
 <p>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-    <img src=""/>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" align="left"/>
 </p>
-
 
 
 #### Descrição: 
@@ -17,12 +15,4 @@
 - Informa o meio de pagamento à vista, debito ou credito 
 
 - É exibido uma nota fiscal no final da compra informando as bolsas compradas, forma de pagamento, juros e valor a ser pago
-
-  
-
-##### Pré-visualização do Projeto:
-
-![](preview-project\preview-loja-geracao.gif)
-
-
 
